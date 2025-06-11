@@ -10,7 +10,7 @@ Benötigen Geflüchtete eine Wohnung, Verpflegung oder medizinische Versorgung, 
 
 ### 
 
-![Bild-Sozialleistung](/assets/copied-from-verwaltungsportal/sozialleistungen.jpg)*Nicht verzagen, denkt sich Luitgard Heissenberg: Das sind die Anträge auf Grundsicherung für eine ukrainische Flüchtlingsfamilie. Foto: privat (Foto über WeTransfer)*
+![Bild-Sozialleistung]({ '/assets/copied-from-verwaltungsportal/sozialleistungen.jpg' | relative_url })*Nicht verzagen, denkt sich Luitgard Heissenberg: Das sind die Anträge auf Grundsicherung für eine ukrainische Flüchtlingsfamilie. Foto: privat (Foto über WeTransfer)*
 
 ### Grundsicherung für Flüchtlinge aus der Ukraine
 
@@ -38,11 +38,11 @@ Kinder und Schüler\*innen aus Flüchtlingsfamilien, die Grundsicherung oder Lei
 
 Flüchtlingsfamilien, deren Kinder eine Ferienfreizeit oder andere Freizeitaktivitäten genießen wollen, können außerdem einen Antrag an den Landkreis Peine, Jugendamt, Kreisjugendpflege, Burgstraße 1, 31224 Peine, stellen. Die Anbieter, wie Jugendzentren, Kreissportbund oder Kinderschutzbund, haben die Anträge oft vorrätig und geben sie auf Anfrage heraus. Hat der Anbieter das Formular nicht, schick ihm dieses Muster:
 
-[Bestätigung der Anmeldung durch den Veranstalter der Freizeitmaßnahme](/assets/copied-from-verwaltungsportal/Best_tigung_der_Anmeldung_durch_den_Veranstalter_der_Freizeitma_nahme.pdf)
+[Bestätigung der Anmeldung durch den Veranstalter der Freizeitmaßnahme]({ '/assets/copied-from-verwaltungsportal/Best_tigung_der_Anmeldung_durch_den_Veranstalter_der_Freizeitma_nahme.pdf' | relative_url })
 
 Hier ist der Vordruck für den Antrag der Familie an das Jugendamt:
 
-[Zuschussantrag an Jugendamt](/assets/copied-from-verwaltungsportal/Zuschussantrag_an_Jugendamt.pdf "Zuschussantrag an Jugendamt")
+[Zuschussantrag an Jugendamt]({ '/assets/copied-from-verwaltungsportal/Zuschussantrag_an_Jugendamt.pdf' | relative_url } "Zuschussantrag an Jugendamt")
 
 ### Wohngeld: Seit 2023 mehr Geld für mehr Berechtigte
 

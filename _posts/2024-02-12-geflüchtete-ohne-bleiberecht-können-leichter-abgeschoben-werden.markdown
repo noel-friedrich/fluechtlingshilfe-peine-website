@@ -9,7 +9,7 @@ Geflüchtete ohne Bleiberecht können leichter abgeschoben werden
 ===============================================================
 
 
-![Beitragsbild](/assets/post-images/asylantrag.jpg)
+![Beitragsbild]({ '/assets/post-images/asylantrag.jpg' | relative_url }' | relative_url })
 
 Der Bundestag  hat am 18\. Januar 2024 das sogenannte Rückführungsverbesserungsgesetz beschlossen. Der Kern sind erweiterte Durchsuchungsmöglichkeiten und eine Ausdehnung des Ausreisegewahrsams. Das schreibt die Pressestelle des Deutschen Bundestages.
 

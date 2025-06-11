@@ -38,9 +38,9 @@ Die Handreichungen listen und übersetzen deutsche Fachbegriffe in verschiedenen
 
 Die Bundesagentur für Arbeit hat eine Homepage auf Ukrainisch und Englisch eingerichtet, in der Flüchtlinge, die eine Arbeit suchen, erste Informationen bekommen. Es gibt auch Tipps zum Beantragen von Kinder\- und Bürgergeld. Viel Infomaterial und Anträge stehen zum Download in mehreren Sprachen bereit. [https://www.arbeitsagentur.de/ukraine](https://www.arbeitsagentur.de/ukraine "https://www.arbeitsagentur.de/ukraine")
 
-[Hier ist zum Beispiel ein Flyer, der die Berufsausbildung auf Deutsch und Ukrainisch erklärt](/assets/copied-from-verwaltungsportal/flyer-mein-weg-zum-beruf-kompakt-uk-de_ba147452.pdf "flyer-mein-weg-zum-beruf-kompakt-uk-de_ba147452").
+[Hier ist zum Beispiel ein Flyer, der die Berufsausbildung auf Deutsch und Ukrainisch erklärt]({ '/assets/copied-from-verwaltungsportal/flyer-mein-weg-zum-beruf-kompakt-uk-de_ba147452.pdf' | relative_url } "flyer-mein-weg-zum-beruf-kompakt-uk-de_ba147452").
 
 ### Merkblatt für Kriegsflüchtlinge aus der Ukraine
 
-Die Arbeitsagentur und das Land Niedersachsen haben ein Merkblatt für Kriegsflüchtlinge aus der Ukraine herausgegeben, das das Arbeiten in Niedersachsen behandelt. Zum Beispiel geht es dort um die Anerkennung von beruflichen Qualifikationen. [Das Merkblatt gibt es zum Download auf deutsch, ukrainisch und russisch](/assets/copied-from-verwaltungsportal/20220504_merkblatt_fuer_kriegsfluechtlinge_aus_der_ukraine_-_arbeit_-_deutsch_-_logo.pdf "20220504_Merkblatt_fuer_Kriegsfluechtlinge_aus_der_Ukraine_-_Arbeit_-_deutsch_-_Logo").
+Die Arbeitsagentur und das Land Niedersachsen haben ein Merkblatt für Kriegsflüchtlinge aus der Ukraine herausgegeben, das das Arbeiten in Niedersachsen behandelt. Zum Beispiel geht es dort um die Anerkennung von beruflichen Qualifikationen. [Das Merkblatt gibt es zum Download auf deutsch, ukrainisch und russisch]({ '/assets/copied-from-verwaltungsportal/20220504_merkblatt_fuer_kriegsfluechtlinge_aus_der_ukraine_-_arbeit_-_deutsch_-_logo.pdf' | relative_url } "20220504_Merkblatt_fuer_Kriegsfluechtlinge_aus_der_Ukraine_-_Arbeit_-_deutsch_-_Logo").
 

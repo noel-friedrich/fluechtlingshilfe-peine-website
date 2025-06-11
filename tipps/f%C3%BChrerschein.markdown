@@ -6,9 +6,9 @@ permalink: /f%C3%BChrerschein/
 
 ### Ausländische Führerscheine in Deutschland
 
-Nicht\-EU\-Führerscheine von Geflüchteten mit Ausnahme der Ukraine können nach sechs Monaten in Deutschland nicht mehr benutzt werden. Markus Seelis vom Verein "Ilsede hilft" ([http://www.ilsede\-hilft.de/index.html](http://www.ilsede-hilft.de/index.html "http://www.ilsede-hilft.de/index.html")) hat ein Merkblatt verfasst, das [hier zum Download bereit steht](/assets/copied-from-verwaltungsportal/merkblatt_fuehrerscheine.pdf "merkblatt_fuehrerscheine").
+Nicht\-EU\-Führerscheine von Geflüchteten mit Ausnahme der Ukraine können nach sechs Monaten in Deutschland nicht mehr benutzt werden. Markus Seelis vom Verein "Ilsede hilft" ([http://www.ilsede\-hilft.de/index.html](http://www.ilsede-hilft.de/index.html "http://www.ilsede-hilft.de/index.html")) hat ein Merkblatt verfasst, das [hier zum Download bereit steht]({ '/assets/copied-from-verwaltungsportal/merkblatt_fuehrerscheine.pdf' | relative_url } "merkblatt_fuehrerscheine").
 
-Das Bundes\-Verkehrsministerium hat ein "Merkblatt für Inhaber ausländischer Fahrerlaubnisse (Führerscheine) aus Staaten außerhalb der Europäischen Union und des Europäischen Wirtschaftsraums über Führerscheinbestimmungen in der Bundesrepublik Deutschland" herausgegeben, in dem generell die Thematik ausländisches Führerscheine erläutert wird: [merkblatt\_verkehrsministerium](/assets/copied-from-verwaltungsportal/merkblatt_verkehrsministerium_1.pdf "merkblatt_verkehrsministerium")
+Das Bundes\-Verkehrsministerium hat ein "Merkblatt für Inhaber ausländischer Fahrerlaubnisse (Führerscheine) aus Staaten außerhalb der Europäischen Union und des Europäischen Wirtschaftsraums über Führerscheinbestimmungen in der Bundesrepublik Deutschland" herausgegeben, in dem generell die Thematik ausländisches Führerscheine erläutert wird: [merkblatt\_verkehrsministerium]({ '/assets/copied-from-verwaltungsportal/merkblatt_verkehrsministerium_1.pdf' | relative_url } "merkblatt_verkehrsministerium")
 
 ### Sonderregelung für ukrainische Kriegsflüchtlinge
 

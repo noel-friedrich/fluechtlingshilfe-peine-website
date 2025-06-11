@@ -12,8 +12,8 @@
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
             <li>
-              <a href="/impressum">Impressum</a> &
-              <a href="/datenschutz">Datenschutz</a>
+              <a href="{{ '/impressum' | relative_url }}">Impressum</a> &
+              <a href="{{ '/datenschutz' | relative_url }}">Datenschutz</a>
             </li>
         </ul>
       </div>

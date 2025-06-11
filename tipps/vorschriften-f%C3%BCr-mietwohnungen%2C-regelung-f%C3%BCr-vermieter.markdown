@@ -12,7 +12,7 @@ Wenn Flüchtlinge Sozialleistungen in Anspruch nehmen wollen, müssen sie beim M
 
 * Hier ist die Tabelle der Preis\-Obergrenzen, die im Landkreis Peine gelten; zur Verfügung gestellt von Harald Thomé, Referent für Sozialrecht: [https://harald\-thome.de/files/pdf/redakteur/KdU\_Ordner/KdU%20Peine%20LK%20\-%2001\.01\.2022\.pdf](https://harald-thome.de/files/pdf/redakteur/KdU_Ordner/KdU%20Peine%20LK%20-%2001.01.2022.pdf)
 * Und hier sind die Obergrenzen der Quadratmeterzahl: [https://www.landkreis\-peine.de/index.php?object\=tx,3583\.3\.1&ModID\=6&FID\=3583\.192\.1](https://www.landkreis-peine.de/index.php?object=tx,3583.3.1&ModID=6&FID=3583.192.1)
-* Hier ist ein Musterantrag an das Jobcenter auf Förderung der Erstausstattung einer Mietwohnung, der für die Familie angepasst werden muss: [Muster Erstausstattung\-Wohnung\-Antrag](/assets/copied-from-verwaltungsportal/Muster_Erstausstattung-Wohnung-Antrag.docx "Muster Erstausstattung-Wohnung-Antrag")
+* Hier ist ein Musterantrag an das Jobcenter auf Förderung der Erstausstattung einer Mietwohnung, der für die Familie angepasst werden muss: [Muster Erstausstattung\-Wohnung\-Antrag]({ '/assets/copied-from-verwaltungsportal/Muster_Erstausstattung-Wohnung-Antrag.docx' | relative_url } "Muster Erstausstattung-Wohnung-Antrag")
 
 ### Vermietung an Geflüchtete
 

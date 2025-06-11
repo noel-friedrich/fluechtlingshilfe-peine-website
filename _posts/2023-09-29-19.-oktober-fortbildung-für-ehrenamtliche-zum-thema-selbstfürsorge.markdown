@@ -9,7 +9,7 @@ categories: news
 ======================================================================
 
 
-![Beitragsbild](/assets/post-images/Freiwillige_gutes_tun_Logo.png)
+![Beitragsbild]({ '/assets/post-images/Freiwillige_gutes_tun_Logo.png' | relative_url }' | relative_url })
 
 Die Arbeit mit Geflüchteten kann belastend sein. Viele Geflüchtete bringen traumatische Lebensgeschichten mit, der zeitliche und emotionale Einsatz der Helfenden ist oft hoch, Abgrenzung fällt schwer, man will niemanden im Stich lassen. 
 

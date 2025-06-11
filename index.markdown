@@ -16,9 +16,9 @@ list_title: Aktuelles
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); margin-bottom: 3em; gap: 10px;">
-    <h2 style="text-align: center; background-color: #e649a4; padding: 5px;"><a style="color: white;" href="/ansprechpartner-innen">AnsprechpartnerInnen</a></h2>
-    <h2 style="text-align: center; background-color: #e649a4; padding: 5px;"><a style="color: white;" href="/hier-kann-ich-helfen">Hier kann ich helfen!</a></h2>
-    <h2 style="text-align: center; background-color: #e649a4; padding: 5px;"><a style="color: white;" href="/tipps-f%25C3%25BCr-ehrenamtliche">Tipps für Ehrenamtliche</a></h2>
+    <h2 style="text-align: center; background-color: #e649a4; padding: 5px;"><a style="color: white;" href="{{ '/ansprechpartner-innen' | relative_url }}">AnsprechpartnerInnen</a></h2>
+    <h2 style="text-align: center; background-color: #e649a4; padding: 5px;"><a style="color: white;" href="{{ '/hier-kann-ich-helfen' | relative_url }}">Hier kann ich helfen!</a></h2>
+    <h2 style="text-align: center; background-color: #e649a4; padding: 5px;"><a style="color: white;" href="{{ '/tipps-f%25C3%25BCr-ehrenamtliche' | relative_url }}">Tipps für Ehrenamtliche</a></h2>
 </div>
 
 <p>Ein besonderes Danke gilt unseren Unterstützern und Mitgliedschaften.</p>

@@ -8,7 +8,7 @@ permalink: /schule/
 
 Sobald geregelt ist, dass eine Flüchtlingsfamilie im Wohnort bleiben und wohnen kann, gilt für Kinder ab sechs Jahren die Schulpflicht. Es gibt Schuleinzugsbezirke. Die Grundschule wird zugeteilt entsprechend dem Ortsteil, in dem die Familie wohnt. Die weiterführenden Schulen können ebenfalls nicht frei ausgewählt werden. Gibt es in der Gemeinde beispielsweise eine Realschule, ein Gymnasium oder eine Gesamtschule, darf nicht diese Schulform in der Nachbarstadt besucht werden.
 
-Das Land Niedersachsen hat für ukrainische Flüchtlinge einen dreisprachigen Aufnahmebogen für die Schule entwickelt: deutsch, ukrainisch, russisch. Den kann die Familie ausfüllen und zu der Schule schicken, die das Kind besuchen soll. Es ist sinnvoll, vorher die Schule anzurufen und Termine für ein Vorgespräch und für den ersten Schultag zu verabreden. Und es ist hilfreich, wenn daran neben Mutter/Vater und dem Schulkind ein Pate und ein Dolmetscher teilnehmen. [Hier finden Sie den dreisprachigen Aufnahmebogen \>\>](/assets/copied-from-verwaltungsportal/1b-2022-03-14_dreisprachiger_aufnahmebogen_de_ukr_rus_vorlage_druckversion_v07_bs.pdf "1b-2022-03-14_Dreisprachiger Aufnahmebogen_DE_UKR_RUS_Vorlage Druckversion_V07_BS")
+Das Land Niedersachsen hat für ukrainische Flüchtlinge einen dreisprachigen Aufnahmebogen für die Schule entwickelt: deutsch, ukrainisch, russisch. Den kann die Familie ausfüllen und zu der Schule schicken, die das Kind besuchen soll. Es ist sinnvoll, vorher die Schule anzurufen und Termine für ein Vorgespräch und für den ersten Schultag zu verabreden. Und es ist hilfreich, wenn daran neben Mutter/Vater und dem Schulkind ein Pate und ein Dolmetscher teilnehmen. [Hier finden Sie den dreisprachigen Aufnahmebogen \>\>]({ '/assets/copied-from-verwaltungsportal/1b-2022-03-14_dreisprachiger_aufnahmebogen_de_ukr_rus_vorlage_druckversion_v07_bs.pdf' | relative_url } "1b-2022-03-14_Dreisprachiger Aufnahmebogen_DE_UKR_RUS_Vorlage Druckversion_V07_BS")
 
 ### Schulen müssen keine Noten geben
 
@@ -22,7 +22,7 @@ Wer dort die richtige Sprache nicht findet: Das Kommunale Integrationszentrum K�
 
 ### Erklärung unseres Schulsystems auf Ukrainisch
 
-Hier ist eine Erläuterung in ukrainischer Sprache, die Du an die Flüchtlingsfamilien weitergeben kannst.[Hier zum Download \>\>](/assets/copied-from-verwaltungsportal/amfn_schule_ukr_broscha6_1_demo_1.pdf "amfn_schule_ukr_broschA6_1_demo")
+Hier ist eine Erläuterung in ukrainischer Sprache, die Du an die Flüchtlingsfamilien weitergeben kannst.[Hier zum Download \>\>]({ '/assets/copied-from-verwaltungsportal/amfn_schule_ukr_broscha6_1_demo_1.pdf' | relative_url } "amfn_schule_ukr_broschA6_1_demo")
 
 ### Online\-Unterricht für ukrainische Schüler
 

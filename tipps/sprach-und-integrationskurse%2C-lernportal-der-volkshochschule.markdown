@@ -18,7 +18,7 @@ Die Volkshochschule bietet einen kostenlosen Online\-Sprachkursus: Deutsch selbe
 
 ### Online\-Sprachkurse
 
-Wenn die Lernorte mit Bus und Bahn nicht zu erreichen sind, zahlen die Behörden Online\-Kurse. Leider gibt es für diese gibt keine Zertifikate, die später in vielen Berufen erwartet werden. Allerdings bietet die Kreisvolkshochschule kostenlos Sprachtests an, wenn der Online\-Kursus mit den Behörden abgesprochen ist.. [Hier eine kurze Auflistung von der Homepage des Bundesamtes für Migration, alles Weitere bitte beim Jobcenter (zuständig für Ukrainer) oder dem Fachdienst Soziales des Landkreises Peine (zuständig für alle Asylbewerber) erfragen.](/assets/copied-from-verwaltungsportal/online-sprachangebote_1_.pdf)
+Wenn die Lernorte mit Bus und Bahn nicht zu erreichen sind, zahlen die Behörden Online\-Kurse. Leider gibt es für diese gibt keine Zertifikate, die später in vielen Berufen erwartet werden. Allerdings bietet die Kreisvolkshochschule kostenlos Sprachtests an, wenn der Online\-Kursus mit den Behörden abgesprochen ist.. [Hier eine kurze Auflistung von der Homepage des Bundesamtes für Migration, alles Weitere bitte beim Jobcenter (zuständig für Ukrainer) oder dem Fachdienst Soziales des Landkreises Peine (zuständig für alle Asylbewerber) erfragen.]({ '/assets/copied-from-verwaltungsportal/online-sprachangebote_1_.pdf' | relative_url })
 
 **Hier sind Kontakte für offizielle Sprach\- und Integrationskurse:**
 

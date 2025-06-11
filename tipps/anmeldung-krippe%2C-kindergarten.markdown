@@ -4,7 +4,7 @@ title: Anmeldung Krippe, Kindergarten
 permalink: /anmeldung-krippe%2C-kindergarten/
 ---
 
-![coming-soon-04](/assets/copied-from-verwaltungsportal/coming-soon-04.png)
+![coming-soon-04]({ '/assets/copied-from-verwaltungsportal/coming-soon-04.png' | relative_url })
 
 ### Krippe
 
