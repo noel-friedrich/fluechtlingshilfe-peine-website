@@ -23,4 +23,4 @@ list_title: Aktuelles
 
 <p>Ein besonderes Danke gilt unseren Unterstützern und Mitgliedschaften.</p>
 
-<img src="/assets/images/kinder.jpg" style="height: 300px; width: 100%; object-fit: cover;">
+<img src="{{ '/assets/images/kinder.jpg' | relative_url }}" style="height: 300px; width: 100%; object-fit: cover;">
