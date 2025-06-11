@@ -9,7 +9,7 @@ Runder Tisch der Flüchtlingshilfen im Landkreis Peine am 27\.09\.23
 ===================================================================
 
 
-![Beitragsbild]({{ '/assets/post-images/RT_23_09_23.jpg' | relative_url }}' | relative_url }})
+![Beitragsbild]({{ '/assets/post-images/RT_23_09_23.jpg' | relative_url }})
 
 Wir laden herzlich ein zum
 

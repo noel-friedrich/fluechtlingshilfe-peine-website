@@ -9,7 +9,7 @@ Weihnachtliches Austauschtreffen für Ehrenamtliche am 20\.12\.
 ==============================================================
 
 
-![Beitragsbild]({{ '/assets/post-images/christmas-cookies-2975570_1280.jpg' | relative_url }}' | relative_url }})
+![Beitragsbild]({{ '/assets/post-images/christmas-cookies-2975570_1280.jpg' | relative_url }})
 
 Liebe Ehrenamtliche, Freiwillige und Engagierte,
 

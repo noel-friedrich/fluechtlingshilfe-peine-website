@@ -9,7 +9,7 @@ Fest der Kulturen
 =================
 
 
-![Beitragsbild]({{ '/assets/post-images/Fest_der_Kulturen_Facebook.png' | relative_url }}' | relative_url }})
+![Beitragsbild]({{ '/assets/post-images/Fest_der_Kulturen_Facebook.png' | relative_url }})
 
 das "Fest der Kulturen \- bunt statt braun" am Samstag, 3\. Juni 2023 auf dem Historischen Marktplatz in Peine lstatt. Weit mehr als 20 Organisationen werden mit Info\- und Aktionsständen dabei sein und für alle Generationen etwas anbieten. Das Bühnenprogramm wird gewohnt vielfältig sein und von Hip\-Hop bis klassischer Musik und Tänzen sicher wieder viele begeistern.
 
