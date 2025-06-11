@@ -11,14 +11,14 @@ Für Geflüchtete, die weder über Reisepass noch über einen neueren Personalau
 
 
 
-Die meisten Sparkassen bieten den Ukrainern vorerst kostenlose Girokonten an. [Hier ist eine Erläuterung des Girokontos auf Ukrainisch]({ '/assets/copied-from-verwaltungsportal/girokonto_informationen_ukrainisch.pdf' | relative_url } "Die meisten Sparkassen bieten den Ukrainern vorerst kostenlose Girokonten an. Hier ist eine Erläuterung des Girokontos auf Ukrainisch")
+Die meisten Sparkassen bieten den Ukrainern vorerst kostenlose Girokonten an. [Hier ist eine Erläuterung des Girokontos auf Ukrainisch]({{ '/assets/copied-from-verwaltungsportal/girokonto_informationen_ukrainisch.pdf' | relative_url }} "Die meisten Sparkassen bieten den Ukrainern vorerst kostenlose Girokonten an. Hier ist eine Erläuterung des Girokontos auf Ukrainisch")
 
 
 
 Wenn Du mit den Geflüchteten, die Du betreust, ein Basiskonto in einer Bank/Sparkasse einrichten willst, vereinbare am besten vorher einen Termin. Alternativ kann das Konto online beantragt werden. Dann musst Du allerdings zu Hause viele Formulare ausdrucken und ausfüllen. Nach meiner Erfahrung spart die Online\-Beantragung keine Zeit.
 
 
-[Hier ist eine Anleitung für die Online\-Beantragung bei der Sparkasse \>\>\>]({ '/assets/copied-from-verwaltungsportal/klickanleitung_kontoeroeffnung.pdf' | relative_url } "Klickanleitung Kontoeröffnung")
+[Hier ist eine Anleitung für die Online\-Beantragung bei der Sparkasse \>\>\>]({{ '/assets/copied-from-verwaltungsportal/klickanleitung_kontoeroeffnung.pdf' | relative_url }} "Klickanleitung Kontoeröffnung")
 
 
 

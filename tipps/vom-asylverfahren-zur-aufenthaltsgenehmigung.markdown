@@ -19,5 +19,5 @@ Die spendenfinanzierte Einzelfallhilfe von Pro Asyl unterstützt Flüchtlinge im
 
 Der Flüchtlingsrat Schleswig\-Holstein hat einen Taschenkompass herausgegeben, der auf Deutsch, Arabisch, Farsi, Pashtu, Türkisch, Englisch und Russisch kurz und knapp über die wesentlichen Stationen des Asylverfahrens in Deutschland informiert.
 
-Das PDF\-Dokument umfasst insgesamt 32 Seiten und behandelt die Themen Ankunft/Registrierung, persönliche Antragstellung, Anhörung, Entscheidung und Zuweisung an Landkreise. Der Taschenkompass eignet sich zur ersten Orientierung für Geflüchtete selbst, aber auch für ehrenamtliche Helfer\*innen. Du kannst den Taschenkompass hier herunterladen: [Broschüre Asylverfahren]({ '/assets/copied-from-verwaltungsportal/broschuere_asylverfahren_verschied.-sprachen.pdf' | relative_url } "Broschüre Asylverfahren")
+Das PDF\-Dokument umfasst insgesamt 32 Seiten und behandelt die Themen Ankunft/Registrierung, persönliche Antragstellung, Anhörung, Entscheidung und Zuweisung an Landkreise. Der Taschenkompass eignet sich zur ersten Orientierung für Geflüchtete selbst, aber auch für ehrenamtliche Helfer\*innen. Du kannst den Taschenkompass hier herunterladen: [Broschüre Asylverfahren]({{ '/assets/copied-from-verwaltungsportal/broschuere_asylverfahren_verschied.-sprachen.pdf' | relative_url }} "Broschüre Asylverfahren")
 

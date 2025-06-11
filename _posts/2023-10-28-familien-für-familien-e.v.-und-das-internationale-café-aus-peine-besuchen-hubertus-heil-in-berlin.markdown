@@ -9,7 +9,7 @@ categories: news
 =====================================================================================================
 
 
-![Beitragsbild]({ '/assets/post-images/231016_Familien_f_r_Familien_besucht_Bundestag_und_Hubertus_Heil.jpg' | relative_url }' | relative_url })
+![Beitragsbild]({{ '/assets/post-images/231016_Familien_f_r_Familien_besucht_Bundestag_und_Hubertus_Heil.jpg' | relative_url }}' | relative_url }})
 
 Im Rahmen eines Berlinbesuchs trafen der Verein „Familien für Familien e.V.“ sowie das „Internationale Café“ des evangelisch\-lutherischen Kirchkreises Peine (INCA) den Peiner Bundestagsabgeordneten Hubertus Heil (SPD) im Deutschen Bundestag zum Gespräch. Rund 40 Ehrenamtliche und Geflüchtete besuchten die Plenarsitzung des Bundestags und sprachen im Anschluss eine Stunde mit ihrem Abgeordneten über Herausforderungen und Erfolgsbeispiele bei der Integration von Geflüchteten im Landkreis Peine. Im Zentrum standen Fragen rund um das Aufenthaltsrecht, die Anerkennung von Berufsabschlüssen und das Angebot arbeitsmarktbezogener Sprachkurse in der Region. 
 

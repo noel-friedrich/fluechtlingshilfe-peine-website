@@ -23,6 +23,6 @@ Es gibt eine Reihe von Apps für Android und iPhone, mit denen Du Dich recht gut
 * Sehr hilfreich, auch für die Flüchtlinge, ist der kostenlose „Foto Übersetzer“ von Evolly.App. Damit können die Flüchtlinge im Supermarkt zum Beispiel Etiketten fotografieren, die die App dann sofort übersetzt.
 
 
-![bild-übersetzungstools]({ '/assets/copied-from-verwaltungsportal/bild-_bersetzungstools.png' | relative_url })*Das ist der "Sprechende Übersetzer" von ideal app team. Foto: Heissenberg*
+![bild-übersetzungstools]({{ '/assets/copied-from-verwaltungsportal/bild-_bersetzungstools.png' | relative_url }})*Das ist der "Sprechende Übersetzer" von ideal app team. Foto: Heissenberg*
 
 

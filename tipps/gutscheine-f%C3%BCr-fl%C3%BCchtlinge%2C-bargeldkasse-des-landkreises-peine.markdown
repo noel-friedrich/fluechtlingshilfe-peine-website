@@ -25,6 +25,6 @@ Geflüchtete Familien erhalten bei der Entlassung aus den Erstaufnahme\-Einricht
 Geflüchtete erhalten Sozialleistungen, sobald sie sich in einer Gemeinde angemeldet haben. Daher brauchen sie rasch ein Bankkonto. So lange sie kein Konto haben, können sie Bargeld bei der Bar\-Kasse des Landkreises Peine, Burgstraße 1, in Peine erhalten. Die Bargeldkasse liegt im Keller des Kreishauses bei den Parkdecks am Schlosswall. Bitte vorher unbedingt mit dem Fachdienst Soziales der Kreisverwaltung sprechen. Ukrainer müssen sich an das Jobcenter Peine wenden.
 
 
-![Bild-Gutscheine-fuer-fluechtlinge]({ '/assets/copied-from-verwaltungsportal/Bild-Gutscheine-fuer-fluechtlinge.jpg' | relative_url })*So sieht ein Gutschein des Landkreises Peine für Geflüchtete aus. Foto: Heissenberg* 
+![Bild-Gutscheine-fuer-fluechtlinge]({{ '/assets/copied-from-verwaltungsportal/Bild-Gutscheine-fuer-fluechtlinge.jpg' | relative_url }})*So sieht ein Gutschein des Landkreises Peine für Geflüchtete aus. Foto: Heissenberg* 
 
 

@@ -31,5 +31,5 @@ Der Flüchtlingsrat Schleswig\-Holstein hat im August 2023 für Ehrenamtliche ei
 
 Die Kontaktlisten im hinteren Teil beziehen sich in der Regel auf Schleswig\-Holstein. Wir haben die Broschüre trotzdem aufgenommen, weil der Flüchtlingsrat Niedersachsen keine aktuelle Handreichung anbietet.
 
-[Broschüre für Geflüchtete und Unterstützer]({ '/assets/copied-from-verwaltungsportal/kompass_2023.pdf' | relative_url } "Broschüre für Geflüchtete und Unterstützer")
+[Broschüre für Geflüchtete und Unterstützer]({{ '/assets/copied-from-verwaltungsportal/kompass_2023.pdf' | relative_url }} "Broschüre für Geflüchtete und Unterstützer")
 

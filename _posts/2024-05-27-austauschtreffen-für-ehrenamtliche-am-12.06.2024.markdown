@@ -9,7 +9,7 @@ Austauschtreffen für Ehrenamtliche am 12\.06\.2024
 ==================================================
 
 
-![Beitragsbild]({ '/assets/post-images/Austausch_Grafik.jpg' | relative_url }' | relative_url })
+![Beitragsbild]({{ '/assets/post-images/Austausch_Grafik.jpg' | relative_url }}' | relative_url }})
 
 Die Freiwilligenagentur Peine lädt alle ehrenamtlich Aktiven ganz herzlich zum Austauschtreffen ein. Egal ob Sie im Sport, in der Flüchtlingshilfe, in der Jugendarbeit oder im Umweltschutz tätig sind – hier haben Sie die Möglichkeit sich mit anderen Ehrenamtlichen auszutauschen, neue Bereiche kennen zu lernen und Kontakte zu knüpfen. Auch wenn Sie im Moment (noch) nicht aktiv sind, sind Sie herzlich eingeladen.
 

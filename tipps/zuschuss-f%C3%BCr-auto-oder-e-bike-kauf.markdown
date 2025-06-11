@@ -11,6 +11,6 @@ Das Jobcenter bzw. Arbeitsagentur fördert unter ganz bestimmten Bedingungen den
 
 
 
-[Hier findest Du die Details \>\>\>]({ '/assets/copied-from-verwaltungsportal/informationen_zur_foerderung_eines_kfz_vermittlungsbudget.docx' | relative_url } "Informationen zur Förderung eines KFZ_Vermittlungsbudget")
+[Hier findest Du die Details \>\>\>]({{ '/assets/copied-from-verwaltungsportal/informationen_zur_foerderung_eines_kfz_vermittlungsbudget.docx' | relative_url }} "Informationen zur Förderung eines KFZ_Vermittlungsbudget")
 
 

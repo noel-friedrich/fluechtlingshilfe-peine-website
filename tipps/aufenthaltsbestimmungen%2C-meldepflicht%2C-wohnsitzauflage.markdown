@@ -8,7 +8,7 @@ permalink: /aufenthaltsbestimmungen%2C-meldepflicht%2C-wohnsitzauflage/
 
 Egal, bei welcher Behörde oder Einrichtung Du um Auskünfte für deine Patenfamilie bittest, sei es Jobcenter, Schule, Ärzte, Krankenkasse oder Stromanbieter \- überall wirst Du nach einer Vollmacht gefragt. Ich habe meine selbst erstellt und bin damit bisher gut gefahren.
 
-[Hier könnt ihr ein Muster downloaden]({ '/assets/copied-from-verwaltungsportal/auskunftsvollmacht_muster.odt' | relative_url } "Auskunftsvollmacht Muster").
+[Hier könnt ihr ein Muster downloaden]({{ '/assets/copied-from-verwaltungsportal/auskunftsvollmacht_muster.odt' | relative_url }} "Auskunftsvollmacht Muster").
 
 ### Aufenthaltsgenehmigung und Arbeitserlaubnis
 
