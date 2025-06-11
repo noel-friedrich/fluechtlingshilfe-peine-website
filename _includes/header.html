@@ -1,10 +1,10 @@
-<header class="site-header" role="banner" style="background-image: url(/assets/images/dots.png);">
+<header class="site-header" role="banner" style="background-image: url({{ '/assets/images/dots.png' | relative_url }});">
 
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      <img src="/assets/images/logo/logo-fluechtlingshilfe-peine.png" style="height: 50px; margin: 20px; margin-left: 0">
+      <img src="{{ '/assets/images/logo/logo-fluechtlingshilfe-peine.png' | relative_url }}" style="height: 50px; margin: 20px; margin-left: 0">
     </a>
 
     {%- if page_paths -%}

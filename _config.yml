@@ -22,7 +22,7 @@ title: Flüchtlingshilfe Peine
 email: familien-fuer-familien@gmx.de
 description: >- # this means to ignore newlines until "baseurl:"
   Unterstützung und Information für Ehrenamtliche in der Flüchtlingshilfe
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "fluechtlingshilfe-peine-website" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
