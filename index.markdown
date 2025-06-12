@@ -24,6 +24,3 @@ list_title: Aktuelles
 <p>Ein besonderes Danke gilt unseren Unterstützern und Mitgliedschaften.</p>
 
 <img src="{{ '/assets/images/kinder.jpg' | relative_url }}" style="height: 300px; width: 100%; object-fit: cover;">
-
-https://noel-friedrich.github.io/fluechtlingshilfe-peine-website/tipps-f%25C3%25BCr-ehrenamtliche
-https://noel-friedrich.github.io/fluechtlingshilfe-peine-website/tipps-f%25C3%25BCr-ehrenamtliche/
